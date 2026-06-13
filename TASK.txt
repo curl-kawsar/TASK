@@ -1,0 +1,37 @@
+Instructions
+1. Do all configuration and understand code (like .env and local Db if needed
+locally) and then start tasks. The Configuration time is not included in test time.
+
+- Do not use any AI tools.
+- The screen recording must clearly show the code editing part and frontend
+running in the browser after starting the client.
+
+
+2. Total time 12 minutes only.
+
+3. After completion, upload the recorded video to Google Drive. Google drive link
+should open directly in browser. it should not ask permission
+
+Tasks(Third task is optional, 1 & 2 needed.):
+1. Add an “About Us” option to the navigation bar and display the About Us content \
+when clicked. ------------------------------------------------------------------- DONE
+
+2. Fix the frontend–backend connection by adding the missing line of code in the
+backend. ------------------------------------------------------------------------ DONE
+
+Hint: All API URLs start with localhost:5000/api/.
+
+3. On the home page, copy the products listed under “Top Brands” and display them
+in the “Best Sellers” section.
+
+
+Please send the following links in the exact order below with numbering :
+1. Screen recorded video link (G-drive should not ask permission)
+2. Your own repo of own git account with updated changes
+3. CV link PDF (must open directly in a browser)
+Company Details: https://etherwavelabs.co
+Japan and USA company Remote tech.
+Our work is on:
+We Mainly Work on Admin panel based systems. Employee management, Statistics,
+Salary records, attendance moduels,Payment gateways,Blog modules,Industrial
+projects moduels like cement records, SAAS modules etc.
